@@ -1,5 +1,6 @@
 # Explainability-driven_SOH
 
+西安交通大学 赵志斌 论文“锂离子电池 SOH 估计的可解释性驱动模型改进”
 This code comes from our paper "Explainability-driven model improvement for SOH estimation of lithium-ion battery".
 Please cite our paper if you find it useful.
 
